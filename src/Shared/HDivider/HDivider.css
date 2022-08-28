@@ -1,0 +1,13 @@
+.horizontalDivider {
+    width: 100%;
+    height: 2px;
+    background-color: #b9bacb;
+}
+
+.horizontalDividerActive{
+    background-image: linear-gradient(90deg,#654de4 50%, #b9bacb 50%);
+}
+
+.horizontalDividerCompleted{
+    background-color: #654de4;
+}

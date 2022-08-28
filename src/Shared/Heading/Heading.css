@@ -1,0 +1,15 @@
+.headingContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.headingTitle{
+    font-size: 32px;
+    color: #171729;
+}
+
+.headingDescription{
+    color: #727694;
+    font-size: 18px;
+}

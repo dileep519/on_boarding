@@ -1,0 +1,17 @@
+.stepLabel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:10px 15px; 
+    border-radius: 50%;
+    border: 0.5px solid #b9bacb;
+}
+
+.stepActiveLabel{
+    background-color: #654de4;
+    color: white;
+}
+
+.stepLabel:hover{
+    cursor: pointer;
+}

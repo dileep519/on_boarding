@@ -1,0 +1,23 @@
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.inputLabel{
+    color:#393c5a;
+    padding: 10px 0px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.inputEle{
+    color: #9498b7;
+    border: 0.5px solid #b9bacb;
+    border-radius: 6px;
+    padding: 12px;
+}
+
+.inputEle:focus{
+    outline: none;
+}

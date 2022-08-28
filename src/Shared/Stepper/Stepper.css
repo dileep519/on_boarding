@@ -1,0 +1,14 @@
+.horizontalStepper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.verticalStepper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: fit-content;
+}

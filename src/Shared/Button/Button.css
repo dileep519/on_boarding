@@ -1,0 +1,12 @@
+.buttonContainer{
+    width: 100%;
+    padding: 15px;
+    background-color: #7f00e8;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 6px;
+}
+
+.buttonContainer:focus{
+    outline: none;
+}

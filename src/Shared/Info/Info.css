@@ -1,0 +1,29 @@
+.infoContainer{
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid #b9bacb;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 20px;
+}
+
+
+.infoContainerActive{
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid #654de4;
+    border-radius: 6px;
+}
+
+.infoTitle{
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 10px;
+    color: #35364e;
+}
+
+
+.infoDescription{
+    padding-top: 10px;
+    color: #8d90a9;
+}

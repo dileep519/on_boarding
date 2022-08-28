@@ -1,0 +1,11 @@
+.companyInfoContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.companyName{
+    font-size: 32px;
+    font-weight: 600;
+    padding-left: 5px;
+}
